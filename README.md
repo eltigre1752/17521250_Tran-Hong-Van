@@ -1,2 +1,2 @@
 # 17521250_Trần Hồng Văn
-nộp bài thực hành
+Nộp soucecode chapter 1 và 2
