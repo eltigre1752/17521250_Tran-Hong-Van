@@ -1,0 +1,8 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"    
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"    
+             xmlns:local="clr-namespace:CustomRendererExample"    
+             x:Class="CustomRendererExample.CustomRendererExamplePage">
+    <StackLayout VerticalOptions="Center">
+        <local:CustomButton Text="Custom Button" Clicked= "ButtonClicked" />
+    </StackLayout>
+</ContentPage>

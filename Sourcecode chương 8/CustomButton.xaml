@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Button FontSize="Large" 
+        HorizontalOptions="Center" 
+        VerticalOptions="Fill"
+        x:Class="CustomRendererExample.CustomButton"/>
